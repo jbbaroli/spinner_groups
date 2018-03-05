@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Demo1</string>
+
+    //Macro groups
+    <string-array name="group">
+        <item>News</item>
+        <item>Sports</item>
+        <item>Opinions</item>
+        <item>Entertainment</item>
+        <item>Living</item>
+    </string-array>
+
+    //Topics Sub-groups
+    <string-array name="news">
+        <item>Breaking News</item>
+        <item>Business</item>
+        <item>Finance</item>
+        <item>Local News</item>
+        <item>Canada News</item>
+        <item>World News</item>
+    </string-array>
+
+    <string-array name="sports">
+        <item>Blue Bombers</item>
+        <item>Winnipeg Jets</item>
+        <item>Autoracing</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Soccer</item>
+        <item>Other Sports</item>
+        <item>Winnipeg Goldeyes</item>
+        <item>Sports News</item>
+        <item>Baseball</item>
+        <item>Curling</item>
+        <item>Golf</item>
+        <item>Horseracing</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="opinions">
+        <item>Editorials</item>
+        <item>Analysis</item>
+    </string-array>
+
+    <string-array name="entertainment">
+        <item>The Arts</item>
+        <item>Music</item>
+        <item>Movies</item>
+        <item>Television</item>
+    </string-array>
+
+    <string-array name="living">
+        <item>Life</item>
+        <item>Style</item>
+        <item>Your Health</item>
+        <item>The Green Page</item>
+        <item>Travel</item>
+    </string-array>
+</resources>
